@@ -3,7 +3,7 @@ I spent 20 years in public education teaching kindergartners to sing, immigrant 
 
 I orchestrate AI systems. I don't write the code — I architect the workflows, design the agents, and build the intelligence infrastructure that makes complex problems tractable. My portfolio here is the receipts: a 2.3 million entry political contribution graph database, an ETL pipeline built with agentic tooling, and a task syntax system for giving AI agents business context.
 
-If you have a problem worth solving, I'd like to hear about it. [Connect on LinkedIn](https://www.linkedin.com/in/zigzagjeff/) or [reach out directly](mailto:jeff@jeffreylong.net)
+If you have a problem worth solving, I'd like to hear about it. [Connect on LinkedIn](https://www.linkedin.com/in/zigzagjeff/) 
 
 ## My Skills
 ### Technical Skills
