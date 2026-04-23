@@ -10,7 +10,7 @@ If you have a problem worth solving, I'd like to hear about it. [Connect on Link
 | Skill                        | Level        |
 | ---------------------------- | ------------ |
 | Anthropic Claude             | Expert       |
-|               Google Gemini               |       Expert       |
+| Google Gemini               |       Expert       |
 | LLM Orchestration            | Expert       |
 | Graph RAG                    | Intermediate |
 | Neo4j (Graph Database)       | Intermediate |
