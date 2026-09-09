@@ -1,5 +1,5 @@
 ## Hi, I'm Jeff Long
-I spent 20 years in public education teaching kindergartners to sing, immigrant kids to speak English, and high schoolers to write essays. Then I left. Both the classroom and America. I was in Albania in December 2022 when ChatGPT launched, shared it with a friend, and haven't stopped building with AI since.
+I spent 27 years in public education teaching kindergartners to sing, immigrant kids to speak English, and high schoolers to write essays. Then I left. Both the classroom and America. I was in Albania in December 2022 when ChatGPT launched, shared it with a friend, and haven't stopped building with AI since.
 
 I orchestrate AI systems. I don't write the code — I architect the workflows, design the agents, and build the intelligence infrastructure that makes complex problems tractable. My portfolio here is the receipts: a 3.1 million entry political contribution graph database, an ETL pipeline built with agentic tooling, and a task syntax system for giving AI agents business context.
 
