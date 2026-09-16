@@ -1,7 +1,7 @@
 ## Hi, I'm Jeff Long
 I spent 27 years in public education teaching kindergartners to sing, immigrant kids to speak English, and high schoolers to write essays. Then I left. Both the classroom and America. I was in Albania in December 2022 when ChatGPT launched, shared it with a friend, and haven't stopped building with AI since.
 
-I orchestrate AI systems. I don't write the code — I architect the workflows, design the agents, and build the intelligence infrastructure that makes complex problems tractable. My portfolio here is the receipts: a 3.1 million entry political contribution graph database, an ETL pipeline built with agentic tooling, and a task syntax system for giving AI agents business context.
+I orchestrate AI systems — I architect the workflows, design the agents, and build the intelligence infrastructure that makes complex problems tractable. My portfolio here is the receipts: a 3.1M-record Postgres database of Iowa political contributions ($928M, 2003–2026), a Neo4j graph of its Polk County subset (391,881 contributions, 54,059 donors, 2,764 committees), an ETL pipeline built with agentic tooling, and a task syntax system for giving AI agents business context.
 
 If you have a problem worth solving, I'd like to hear about it. [Connect on LinkedIn](https://www.linkedin.com/in/zigzagjeff/) 
 
